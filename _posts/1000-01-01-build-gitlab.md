@@ -1,9 +1,9 @@
 ---
-title: build-gitlab
+title: gitlab私有化部署
 layout: default
 ---
 
-# gitlab 私有化部署
+# gitlab私有化部署
 ## 宝塔面板docker部署
 宝塔面板万能安装脚本
 ```bash
