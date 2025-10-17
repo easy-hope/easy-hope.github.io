@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 子页面
+title: child
 nav_order: 3
 has_children: true
 permalink: /_posts/child/
 ---
 
 
-son
+son222
