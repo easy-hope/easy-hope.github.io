@@ -2,8 +2,8 @@
 layout: default
 title: 父页面
 parent: child
-nav_order: 2
-has_children: true
 ---
 
 Focus on wri
+nav_order: 2
+has_children: true
